@@ -1,5 +1,5 @@
 # Company-Dashboard
-https://app.powerbi.com/groups/me/reports/5efcc096-3447-47dc-b6ae-7938720c991a/5a66037597e01edf527e?experience=power-bi
+https://app.powerbi.com/links/s-imsCLmf-?ctid=65fd78f2-5eb0-49e9-8d4e-96710179e9d6&pbi_source=linkShare
 
 ## Problem Statement
 
