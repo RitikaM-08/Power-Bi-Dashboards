@@ -33,7 +33,7 @@ A card visual was used to represent the sum of sales.
 
  # Report Snapshot (Power BI DESKTOP)
 
- <img width="597" alt="Report snapshot" src="https://github.com/user-attachments/assets/414a6cf0-3232-417f-9f98-448352d742fe">
+ <img width="593" alt="Report Dashboard" src="https://github.com/user-attachments/assets/5588f61d-e30f-4a84-a7ae-691162548d7b">
 
 
 Following inferences can be drawn from the dashboard;
